@@ -1,7 +1,7 @@
 # R Projects
 
 <p align="center"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="500">
+<img src="[https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg](https://commons.wikimedia.org/wiki/File:R_logo.svg)" width="500">
 </p>
 
 
