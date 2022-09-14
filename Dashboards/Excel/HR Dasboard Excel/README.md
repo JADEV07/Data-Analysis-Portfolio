@@ -2,7 +2,7 @@
 
 Building an Excel Dashboard using 'Human Resources' From #RWFD
 
-![HR Dashboard](images/HR_Dashboard.png)
+![HR Dashboard](HR_Dashboard.png)
 
 
 
